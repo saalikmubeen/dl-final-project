@@ -40,7 +40,7 @@ cd dl-final-project
 After running the setup script, activate the virtual environment:
 
 ```bash
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 ### Jupyter Notebook Usage
