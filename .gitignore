@@ -1,6 +1,6 @@
 # Data
-data/*
-!data/README.md
+# data/*
+# data/README.md
 
 # Logs
 experiments/logs/*
